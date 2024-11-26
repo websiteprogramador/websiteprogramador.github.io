@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+}
+
+h3.one_title {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3.sub_title {
+    text-align: left;
+
+}
+
+div.list{
+    text-align: left;
+    font-size: 16px;
+}
+
+h3.sub_title_three {
+
+}
+
+
+div.list_formation{
+    text-align: left;
+    font-size: 16px;
+}
+a {
+    font-size: 16px;
+}

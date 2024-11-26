@@ -1,0 +1,49 @@
+body {
+    background-color: aquamarine;
+}
+
+h2.initialtitle {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h3.sub_title_one {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.paragrafo_one {
+    text-align: left;
+    font-size: 16px;
+}
+
+p.paragrafo_two {
+    text-align: left;
+    font-size: 16px;
+}
+
+p.paragrafo_three {
+    text-align: left;
+    font-size: 16px;
+}
+
+div {
+
+    text-align: left;
+    padding-top: 44px;
+    padding-bottom: 50px;
+}
+
+h3.sub_title_three {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border: 2px solid black;
+}
+a{
+    font-size: 16px;
+}
+div.lista{
+    font-size: 16px;
+}
