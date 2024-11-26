@@ -1,0 +1,43 @@
+body {
+    background-image: url(/image/background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+}
+
+h1.initialtitle {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h2.sub_title_one {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.paragrafo_one {
+    text-align: left;
+    font-size: 19px;
+}
+
+p.paragrafo_two {
+    text-align: left;
+    font-size: 19px;
+}
+
+p.paragrafo_three {
+    text-align: left;
+    font-size: 19px;
+}
+
+div {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 155px;
+}
+
+h2.sub_title_four {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
